@@ -3,6 +3,8 @@ node.js backend + react frontend
 
 https://146.59.14.8:5000
 
+https://github.com/nicramu/name-generator/assets/110261550/50b50277-14e1-4dbb-afa4-49d1ae8a95b8
+
 it generates random name based on pattern: adverb + adjective + noun from random wiktionary pages (like: https://pl.wiktionary.org/wiki/Special:RandomInCategory?wpcategory=Kategoria%3AJęzyk_polski_-_przymiotniki)
 
 - separator query "?separator=-", ex. "pędzący duży kot" / "pędzący-duży-kot"
